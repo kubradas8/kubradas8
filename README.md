@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/26BRAp3nfSePXd8He/source.gif" align="right">
+<img src="https://media.giphy.com/media/26BRAp3nfSePXd8He/giphy.gif" align="right">
 
 ### Hi there, I'm Kubra :raising_hand:
 
