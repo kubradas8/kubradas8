@@ -1,20 +1,20 @@
 <img src="https://media.giphy.com/media/26BRAp3nfSePXd8He/giphy.gif" align="right">
 
-### Hi there, I'm Kubra :raising_hand:
+### Hi there, I'm Kubra <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## Software Developer who is interested in UI/UX Design _(Figma intensifies)_
 
-### If you'd like to chat about web development, design or tropical birds, you can reach out to me
+### If you'd like to chat about web development, design or tropical birds, feel free to reach me out!
 
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" align="left"/>][gmail]
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left"/>][twitter]
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left"/>][linkedin]
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/behance.svg" align="left"/>][behance]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)][behance]
 
 <br/>
 <br/>
 
-## Tech I Use
+## Languages & Techs I Use
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" align="left">
@@ -33,7 +33,7 @@
 
 <details>
 <summary>:trophy: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubradas8&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubradas8&layout=compact&theme=tokyonight">
 </details>
 
 [gmail]: mailto:kdasdogan94@gmail.com
