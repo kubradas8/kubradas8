@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Kubra :raising_hand:
 
-## Software Developer who is interested in UI/UX Design _(<font color="#f24e1e">F</font><font color="#ff7262">i</font><font color="#a259ff">g</font><font color="#1abcfe">m</font><font color="#0acf83">a</font> intensifies)_
+## Software Developer who is interested in UI/UX Design _(Figma intensifies)_
 
 ### If you'd like to chat about web development, design or tropical birds, you can reach out to me
 
